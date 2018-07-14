@@ -2,8 +2,8 @@
   <img src="http://i.imgur.com/OD8QlFQ.png" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 English Patch 
-Welcome to the PSO2 English Patch CSV Repository.
+# PSO2 Magyar Patch 
+Üdv a PSO2 Magyar Patch CSV oldalán.
 
 Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
 
